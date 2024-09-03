@@ -8,7 +8,8 @@ Before Adding the Task:
 
 After adding the task:
 enter the task and click add button
-![image](https://github.com/user-attachments/assets/5a4f5d1f-ddce-4d20-926e-e378de47d9c0)
+![image](https://github.com/user-attachments/assets/0442a144-291f-4127-9822-92de7750d624)
+
 
 completed task:
 click on the task after completed the task
