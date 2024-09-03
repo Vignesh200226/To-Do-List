@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -7,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/in/vignesh-r-r-476271252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vignesh-r-r-476271252" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,12 +16,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh200226&show_icons=true&locale=en&layout=compact" alt="vignesh200226" /></p>
 
-
 # To-Do-List
 i have designed To-do-list using html,css and javascript
 
 
-Before Adding the Task:
+Before Adding the Task:<br>
 
 ![image](https://github.com/user-attachments/assets/955d448c-4504-4fd5-8f28-059cf0512987)
 
