@@ -1,49 +1,66 @@
+# To-Do List
 
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+A simple and interactive To-Do List application built using HTML, CSS, and JavaScript.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh200226&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh200226" /> </p>
+## Features
 
-- 🌱 I’m currently learning **React, node js**
+- Add new tasks to the list.
+- Mark tasks as completed.
+- Delete tasks from the list.
+- Save tasks in the browser's local storage to persist tasks even after a page reload.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/vignesh-r-r-476271252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vignesh-r-r-476271252" height="30" width="40" /></a>
-</p>
+## Technologies Used
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **HTML**: For the basic structure of the application.
+- **CSS**: For styling the To-Do list, including layout and visual design.
+- **JavaScript**: For handling task creation, completion, deletion, and local storage management.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh200226&show_icons=true&locale=en&layout=compact" alt="vignesh200226" /></p>
+## How to Use
 
-# To-Do-List
-i have designed To-do-list using html,css and javascript
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/your-username/todo-list.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd todo-list
+    ```
+
+3. **Open `index.html` in your browser** to view and use the To-Do List application.
+
+## Code Overview
+
+- **index.html**: Contains the HTML structure for the To-Do List.
+- **style.css**: Includes the CSS styles for the To-Do List.
+- **script.js**: Contains the JavaScript code that manages task operations and local storage.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at r.r.vignesh9945@gmail.com.
 
 
-Before Adding the Task:<br>
+# Screenshots
+
 
 ![image](https://github.com/user-attachments/assets/955d448c-4504-4fd5-8f28-059cf0512987)
 
-After adding the task:
-
-enter the task and click add button
 
 ![image](https://github.com/user-attachments/assets/0442a144-291f-4127-9822-92de7750d624)
 
 
-
-completed task:
-
-click on the task after completed the task
-
 ![image](https://github.com/user-attachments/assets/1628cf71-d781-4dcf-a9cc-9d6e1f7db155)
 
-
-
-
-delete the task:
-
-by clicking the cross mark the task will be deleted
 
 ![image](https://github.com/user-attachments/assets/6d54819a-e5e3-4cbe-842e-8403bacf0af6)
 
